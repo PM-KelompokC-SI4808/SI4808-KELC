@@ -1,11 +1,6 @@
-Arrival 102022400119
-Fathir
-Raqieza 102022400076
-Arenko
-Fadhlan
 Arrival 102022400119 PPL
 Fathir 102022430001
-Raqieza
+Raqieza 102022400076
 Arenko 102022400090
 Fadhlan 102022400084
 Fauzan
